@@ -1,1 +1,3 @@
-# ios-scanner
+# QRScanner
+
+Use 
