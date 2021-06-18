@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
     s.name            = "Scanner"
-    s.version         = "1.0.2"
+    s.version         = "1.0.4"
     s.summary         = "Scanner SDK that will be used for scanning QR codes."
     s.homepage        = "https:/github.com/IBM/ios-scanner.git"
     s.license         = "TBD"
     s.author          = { "Daniel Mandea" => "daniel.mandea@yahoo.com" }
-    s.platform        = :ios, "13.4"
+    s.platform        = :ios, "12.3"
     s.swift_version   = "5.1"
     s.requires_arc    = true
     s.source          = { :git => "https://github.com/IBM/ios-scanner.git", :tag => s.version.to_s }
