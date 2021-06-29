@@ -1,4 +1,4 @@
-# QRScanner
+# Scanner
 
 ## Development Setup
 
