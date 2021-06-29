@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name            = "Scanner"
-    s.version         = "1.0.4"
+    s.version         = "1.0.7"
     s.summary         = "Scanner SDK that will be used for scanning QR codes."
     s.homepage        = "https:/github.com/IBM/ios-scanner.git"
     s.license         = "TBD"
